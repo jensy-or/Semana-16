@@ -1,1 +1,1 @@
-Trabajando con Arcrvos.txt en python.
+Trabajando con Archivos.txt en python.
